@@ -1,5 +1,4 @@
-// dbg — a small ptrace-based debugger for x86-64 Linux programs.
-// Milestone 1: start a program under ptrace, stop at its first instruction,
+// dbg is a small ptrace-based debugger for x86-64 Linux programs.
 // show registers, single-step, continue.
 
 #define _GNU_SOURCE
